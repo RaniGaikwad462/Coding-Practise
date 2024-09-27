@@ -1,1 +1,1 @@
-# paint-github-6ff08
+# Java Coding solutions
